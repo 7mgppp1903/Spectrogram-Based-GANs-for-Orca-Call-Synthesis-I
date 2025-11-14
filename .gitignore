@@ -1,7 +1,0 @@
-*.npy
-Data/
-checkpoints/
-.venv/
-.idea/
-*.iml
-.DS_Store
