@@ -1,0 +1,11 @@
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.2
+tqdm==4.66.5
+torch==2.4.0
+torchaudio==2.4.0
+pandas==2.2.2
+seaborn==0.13.2
+jupyter==1.1.1
