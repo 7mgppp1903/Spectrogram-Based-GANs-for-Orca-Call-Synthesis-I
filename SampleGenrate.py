@@ -14,4 +14,4 @@ for i in range(8):
         fake = G(z).cpu().squeeze().numpy()
     np.save(f"Results/epoch10_sample_{i}.npy", fake)
 
-print("✅ Generated 8 samples in Results/")
+print("Generated 8 samples in Results/")
