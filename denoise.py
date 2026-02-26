@@ -14,4 +14,4 @@ y_denoised = nr.reduce_noise(y=y, y_noise=noise_sample, sr=sr, prop_decrease=0.8
 # Save result
 sf.write("generated_clean_denoised.wav", y_denoised, sr)
 
-print("✅ Noise Reduced Audio Saved: generated_clean_denoised.wav")
+print("Noise Reduced Audio Saved: generated_clean_denoised.wav")
